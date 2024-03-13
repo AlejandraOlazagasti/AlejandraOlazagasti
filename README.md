@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandra</h1>
 <h3 align="center">A passionate front-end developer 👩‍💻</h3>
 
-
-
-- 🌱 I’m currently learning **back-end technologies**
-
 - 👨‍💻 All of my projects are available at [https://alejandra-olazagasti-portfolio.netlify.app](https://alejandra-olazagasti-portfolio.netlify.app)
 
-- 💬 Ask me about **css, javascript, react**
+- 💬 Ask me about **css, javascript, react, angular, tailwind, typescript, UX/UI**
 
 - 📫 How to reach me **alejandraolazagasti1@gmail.com**
 
