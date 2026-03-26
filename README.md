@@ -95,8 +95,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandraolazagasti&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandraolazagasti&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandraolazagasti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandraolazagasti&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
