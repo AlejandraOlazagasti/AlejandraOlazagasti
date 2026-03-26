@@ -1,15 +1,11 @@
-
 <!-- ======================= -->
 <!-- HERO -->
 <!-- ======================= -->
 
-<h1 align="center">
-  Hi, I'm Alejandra 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
+<h1 align="center">Alejandra</h1>
 
 <p align="center">
-Fullstack Developer specialized in React, building scalable user interfaces and backend services.
+Fullstack Developer building scalable web applications, from complex frontend systems to robust backend services.
 </p>
 
 <p align="center">
@@ -17,115 +13,125 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </p>
 
-<!-- ======================= -->
-<!-- TECH STACK -->
-<!-- ======================= -->
-
-<h2>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="40"/>
-  Tech Stack
-</h2>
-
-<h3>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"/>
-  Frontend
-</h3>
-
-<p>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60"/>
-</p>
-
-<h3>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30"/>
-  UI & Styling
-</h3>
-
-<p>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"/>
-</p>
-
-<h3>
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="30"/>
-  Backend & APIs
-</h3>
-
-<p>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"/>
-</p>
-
-<h3>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
-  Databases
-</h3>
-
-<p>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-</p>
-
-<!-- ======================= -->
-<!-- PROJECT -->
-<!-- ======================= -->
-
-<h2>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"/>
-  Featured Project
-</h2>
-
-<h3>Fullstack CRUD (React + FastAPI)</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
-
-<ul>
-  <li>Modular frontend architecture (decoupled components)</li>
-  <li>Global state management with Zustand</li>
-  <li>REST API with FastAPI</li>
-  <li>JWT authentication</li>
-  <li>End-to-end frontend-backend integration</li>
-  <li>PostgreSQL persistence</li>
-</ul>
-
-<p>
-👉 Demo: <br/>
-👉 Code:
-</p>
+---
 
 <!-- ======================= -->
 <!-- ABOUT -->
 <!-- ======================= -->
 
-<h2>
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="40"/>
-  About Me
-</h2>
+<h2>About</h2>
+
+<p>
+I specialize in building high-performance frontend architectures with React, while also designing and developing scalable backend services and APIs.
+</p>
+
+<p>
+My focus is not just on building interfaces, but on creating complete, maintainable systems with clean architecture and solid integration between frontend and backend.
+</p>
+
+---
+
+<!-- ======================= -->
+<!-- TECH STACK -->
+<!-- ======================= -->
+
+<h2>Tech Stack</h2>
+
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript"/>
+</p>
+
+<h3>UI & Design Systems</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+</p>
+
+<h3>State & Frontend Architecture</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Zustand-000000"/>
+</p>
+
+<h3>Backend & APIs</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"/>
+</p>
+
+<h3>Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb"/>
+</p>
+
+---
+
+<!-- ======================= -->
+<!-- FEATURED PROJECT -->
+<!-- ======================= -->
+
+<h2>Featured Project</h2>
+
+<h3>Fullstack CRUD Platform (React + FastAPI)</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+</p>
 
 <ul>
-  <li>Building scalable and maintainable user interfaces</li>
-  <li>Designing component-driven architectures</li>
-  <li>Handling async flows and state management</li>
-  <li>API design and integration</li>
-  <li>Fullstack application development</li>
+  <li>Modular and scalable frontend architecture</li>
+  <li>Global state management with Zustand</li>
+  <li>REST API with FastAPI</li>
+  <li>JWT authentication</li>
+  <li>Full frontend-backend integration</li>
+  <li>PostgreSQL persistence</li>
 </ul>
+
+<p>
+Demo:<br/>
+Code:
+</p>
+
+---
+
+<!-- ======================= -->
+<!-- EXPERIENCE SIGNAL -->
+<!-- ======================= -->
+
+<h2>What I Bring</h2>
+
+<ul>
+  <li>Architecture-first frontend development (not just components)</li>
+  <li>Clear separation of concerns across layers</li>
+  <li>API design and backend integration</li>
+  <li>Focus on scalability and maintainability</li>
+</ul>
+
+---
 
 <!-- ======================= -->
 <!-- CONTACT -->
 <!-- ======================= -->
 
-<h2>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40"/>
-  Contact
-</h2>
+<h2>Contact</h2>
 
-<ul>
-  <li>LinkedIn:</li>
-  <li>Portfolio:</li>
-</ul>
+<p>
+LinkedIn:<br/>
+Portfolio:
+</p>
