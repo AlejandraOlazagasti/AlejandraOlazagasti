@@ -31,10 +31,11 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </h3>
 
 <p>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript"/>
 </p>
 
 <h3>
@@ -43,8 +44,9 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </h3>
 
 <p>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </p>
 
 <h3>
@@ -53,8 +55,10 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </h3>
 
 <p>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"/>
 </p>
 
 <h3>
@@ -63,9 +67,9 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </h3>
 
 <p>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb"/>
 </p>
-
 <!-- ======================= -->
 <!-- PROJECT -->
 <!-- ======================= -->
