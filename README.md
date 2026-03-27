@@ -13,7 +13,7 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDY4OGN1dWc0dWx4OTN4aXFvcXduOTc2MTl5ODByaTRrNnB1MmFqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hQQeQN3YxCp0zly1vr/giphy.gif" />
+  <img src="https://drive.google.com/file/d/1Ql0V5E2_E97Bmlnc31VH_KWUc8ZA0ish/view?usp=drive_link" />
 </p>
 
 <!-- ======================= -->
