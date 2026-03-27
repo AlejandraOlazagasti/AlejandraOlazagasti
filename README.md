@@ -11,8 +11,10 @@
 <p align="center">
 Fullstack Developer specialized in React, building scalable user interfaces and backend services.
 </p>
+<p align="center">
 
 ![ale-cartoon](https://github.com/user-attachments/assets/1d9b3dc5-bfbc-4b68-b9cb-9496ca0902e0)
+</p>
 
 
 <!-- ======================= -->
