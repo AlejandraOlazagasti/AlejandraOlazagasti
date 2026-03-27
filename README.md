@@ -126,6 +126,6 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 </h2>
 
 <ul>
-  <li>LinkedIn:</li>
+  <li>LinkedIn: https://www.linkedin.com/in/alejandra-olazagasti/</li>
   <li>Portfolio:</li>
 </ul>
