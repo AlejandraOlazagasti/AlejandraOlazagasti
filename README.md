@@ -131,5 +131,5 @@ Fullstack Developer specialized in React, building scalable user interfaces and 
 
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandra-olazagasti/" target="_blank">https://www.linkedin.com/in/alejandra-olazagasti/</a> </li>
-  <li>Portfolio:  <a href="https://www.linkedin.com/in/alejandra-olazagasti/](https://alejandra-olazagasti.netlify.app/" target="_blank">https://www.linkedin.com/in/alejandra-olazagasti/</a></li>
+  <li>Portfolio:  <a href="https://alejandra-olazagasti.netlify.app/" target="_blank">https://alejandra-olazagasti.netlify.app/</a></li>
 </ul>
