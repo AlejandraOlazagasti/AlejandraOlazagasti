@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=2EE6D0&center=true&vCenter=true&width=620&lines=React+%2B+Three.js+%2B+Cloudflare+Workers;Arquitectura+hexagonal+en+producción;Scrollytelling+%26+WebGL;Automatizaciones+con+IA+%2B+edge+deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=2EE6D0&center=true&vCenter=true&width=620&lines=React+%2B+Three.js+%2B+Cloudflare+Workers;Arquitectura+hexagonal+en+producci%C3%B3n;Scrollytelling+%26+WebGL;Automatizaciones+con+IA+%2B+edge+deployments" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ Comunicóloga que abrió la consola para nunca cerrarla.
 
 Hoy: **arquitectura hexagonal**, **edge deployments**, **Three.js**, pipelines con IA y scrollytelling que no querrás dejar de scrollear.
 
-**Co-fundé <a href="https://pineaipple.com.mx" target="_blank">PineAipple</a>.** Trabajo en una de las empresas de comunicación más grandes de México. No he dejado de comunicar — solo cambié el canal.
+**Co-fundé <a href="https://pineaipple.com.mx" target="_blank">PineAipple</a>.** Desarrollo software en una de las empresas de comunicación más grandes de México. No he dejado de comunicar — solo cambié el canal.
 
 ---
 
@@ -49,8 +49,8 @@ Mascota 3D que se arma en tiempo real. Scrollytelling narrativo. Patrón de circ
 
 ---
 
-<a href="https://www.linkedin.com/in/alejandra-olazagasti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alejandra-olazagasti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://pineaipple.com.mx"><img src="https://img.shields.io/badge/PineAipple-F5A200?style=flat-square"/></a>
+<a href="https://pineaipple.com.mx" target="_blank"><img src="https://img.shields.io/badge/PineAipple-F5A200?style=flat-square"/></a>
 &nbsp;
 <a href="mailto:alejandraolazagasti1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
