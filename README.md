@@ -12,7 +12,7 @@ Comunicóloga que abrió la consola para nunca cerrarla.
 
 Hoy: **arquitectura hexagonal**, **edge deployments**, **Three.js**, pipelines con IA y scrollytelling que no querrás dejar de scrollear.
 
-**Co-fundé <a href="https://pineaipple.com.mx" target="_blank">PineAipple</a>.** Desarrollo software en una de las empresas de comunicación más grandes de México. No he dejado de comunicar — solo cambié el canal.
+**Co-fundé <a href="https://pineaipple.com.mx" target="_blank">PineAipple</a>.** Desarrollo software para una de las empresas de comunicación más grandes de México. No he dejado de comunicar — solo cambié el canal.
 
 ---
 
