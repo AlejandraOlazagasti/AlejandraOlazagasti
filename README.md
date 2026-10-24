@@ -1,6 +1,4 @@
-<picture>
-  <img src="./assets/circuit-banner.svg" alt="Alejandra Olazagasti — Fullstack Developer" width="100%"/>
-</picture>
+<img src="./assets/github-readme.gif" alt="Alejandra Olazagasti — Fullstack Developer" width="100%"/>
 
 <br/>
 
